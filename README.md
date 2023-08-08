@@ -1,4 +1,4 @@
-![A black and white logo with the image of a night fury's face in a white circle, over white text that reads "Isle of Berk Addons"](https://github.com/JayZX535/iobaddons-mc/blob/main/IoBA-logo.png)
+![A black and white logo with the image of a night fury's face in a white circle, over white text that reads "Isle of Berk Addons"](IoBA-logo.png)
 # Isle of Berk Addons
 Documentation, issues, and extra configurations for the Isle of Berk Addons Minecraft mod.
 
